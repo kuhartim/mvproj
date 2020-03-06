@@ -23,6 +23,7 @@ Tale readme je pač readme
    7. J4ncHy
    7. KuharTim 
    6. FranuloTuđiman
+   19. Gasilec Samo
 
 
 
