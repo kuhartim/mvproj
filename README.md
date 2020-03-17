@@ -22,7 +22,11 @@ Tale readme je pač readme
    7. cule
    7. J4ncHy
    7. KuharTim 
+
+ 7. JorgSwagter
+
    7. jorgcimperman
+
    6. FranuloTuđiman
 
 
