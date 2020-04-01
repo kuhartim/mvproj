@@ -22,8 +22,17 @@ Tale readme je pač readme
    7. cule
    7. J4ncHy
    7. KuharTim 
+
+ 7. JorgSwagter
+
+   7. jorgcimperman
+
    6. FranuloTuđiman
+
    7. bTriler
+
+   19. Gasilec Samo
+
 
 
 
@@ -47,9 +56,9 @@ Naloge :
    
     na lokalnem računalniku:
     ```
-    git remote upstream https://github.com/serhio-w02/mvproj.git
+    git remote add upstream https://github.com/serhio-w02/mvproj.git
     // preveri: git remote -v mora vsebovati upstream-e
-    git fetch ustream
+    git fetch upstream
     git checkout master  // tega naredite v vsakem primeru, čeprav je to edini branch
     git pull upstream master
     git remote remove upstream
