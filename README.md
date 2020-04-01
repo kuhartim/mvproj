@@ -28,7 +28,11 @@ Tale readme je pač readme
    7. jorgcimperman
 
    6. FranuloTuđiman
+
+   7. bTriler
+
    19. Gasilec Samo
+
 
 
 
